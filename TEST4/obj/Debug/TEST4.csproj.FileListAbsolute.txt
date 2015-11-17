@@ -1,0 +1,5 @@
+c:\users\bring\documents\visual studio 2015\Projects\TEST4\TEST4\bin\Debug\TEST4.exe.config
+c:\users\bring\documents\visual studio 2015\Projects\TEST4\TEST4\bin\Debug\TEST4.exe
+c:\users\bring\documents\visual studio 2015\Projects\TEST4\TEST4\bin\Debug\TEST4.pdb
+c:\users\bring\documents\visual studio 2015\Projects\TEST4\TEST4\obj\Debug\TEST4.exe
+c:\users\bring\documents\visual studio 2015\Projects\TEST4\TEST4\obj\Debug\TEST4.pdb
